@@ -1,6 +1,12 @@
 # 💫 About Me:
-I'm a passionate developer who enjoys building web and software applications. I like creating clean websites, backend systems, and learning new technologies in programming.
+Self‑taught developer • clean code enthusiast • building for the web
 
+‣ Currently building: Full‑stack project with JAVA, PHP, MySQL & JavaScript
+‣ Leveling up: Advanced React.js, Node.js & system design
+‣ Ask me about: PHP, Java, Python, Android, Pandas
+‣ Reach me: omkarugale9370@gmail.com
+‣ Experience: LinkedIn | Portfolio
+‣ Debugging superpower: print() – simple, honest, effective
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/omkar_ugale_20?igsh=MWYzNGthNDZqYnJneA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/omkar-ugale-7a411a413) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Omkar Ugale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarugale9370@gmail.com) 
