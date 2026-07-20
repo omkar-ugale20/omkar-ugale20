@@ -1,5 +1,5 @@
 # 💫 About Me:
-‣ Currently building: Full‑stack project with JAVA, PHP, MySQL & JavaScript<br>‣ Leveling up: Advanced React.js, Node.js & system design<br>‣ Ask me about: PHP, Java, Python, Android, Pandas<br>‣ Reach me: tigranomkar09@gmail.com<br>‣ Experience: LinkedIn | Portfolio<br>‣ Debugging superpower: print() – simple, honest, effective
+‣ Currently building: Full‑stack project with JAVA, PHP, MySQL & JavaScript<br>‣ Leveling up: Advanced React.js, Node.js & system design<br>‣ Ask me about: PHP, Java, Python, Android, Pandas<br>‣ Reach me: omkarugale9370@gmail.com<br>‣ Experience: LinkedIn | Portfolio<br>‣ Debugging superpower: print() – simple, honest, effective
 
 
 ## 🌐 Socials:
