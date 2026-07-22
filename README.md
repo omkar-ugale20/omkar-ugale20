@@ -22,3 +22,7 @@ Self‑taught developer • clean code enthusiast • building for the web
 [![](https://komarev.com/ghpvc/?username=omkar-ugale20&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## watch my snake eating github contribution
+![snake gif](https://github.com/omkar-ugale20/omkar-ugale20/blob/output/github-contribution-grid-snake.svg)
