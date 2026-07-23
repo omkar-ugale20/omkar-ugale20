@@ -75,13 +75,15 @@ Self-taught developer • Clean Code Enthusiast • Building for the Web 🚀
 
 ---
 
-# 🐍 Watch My Snake Eating My Contributions
+## 🐍 Watch My Snake Eating My Contributions
 
 <p align="center">
-<img src="https://github.com/omkar-ugale20/omkar-ugale20/blob/output/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkar-ugale20/omkar-ugale20/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omkar-ugale20/omkar-ugale20/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/omkar-ugale20/omkar-ugale20/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
----
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
