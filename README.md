@@ -15,7 +15,7 @@
 ## ⚡ About Me
 
 - 🔭 Currently Building **Full Stack Web Applications**
-- 🌱 Learning **React.js, Node.js & Spring Boot**
+- 🌱 Learning ** Node.js & Spring Boot**
 - 💻 Skilled in **Java, PHP, Python & MySQL**
 - 📱 Android Development Enthusiast
 - 🤝 Looking to collaborate on Open Source Projects
