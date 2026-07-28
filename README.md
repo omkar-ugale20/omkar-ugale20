@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Bharat Ugale</h1>
+
 <h3 align="center">Self-Taught Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -7,23 +8,23 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently Building **Full Stack Web Applications**
+- 🚀 Currently Building **Full Stack Web Applications**
 - 🌱 Learning **Node.js & Spring Boot**
 - 💻 Skilled in **Java, PHP, Python, JavaScript & MySQL**
 - 📱 Android Development Enthusiast
 - 🤝 Looking to collaborate on Open Source Projects
-- 📫 Reach me at **omkarugale9370@gmail.com**
-- ⚡ Fun Fact **Coffee + Coding = Happiness ☕**
+- 📧 Email : **omkarugale9370@gmail.com**
+- ☕ Fun Fact : **Coffee + Coding = Happiness**
 
 ---
 
-## 🛠 Languages & Tools
+# 🛠 Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,react,nodejs,mysql,c,cpp,git,github,vscode,idea,androidstudio" />
+<img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,react,nodejs,mysql,c,cpp,git,github,vscode,idea,androidstudio"/>
 
 </p>
 
@@ -45,7 +46,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=omkar-ugale20&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=omkar-ugale20&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -55,7 +56,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-ugale20&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-ugale20&theme=tokyo-night"/>
 
 </p>
 
@@ -65,7 +66,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omkar-ugale20&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=omkar-ugale20&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
