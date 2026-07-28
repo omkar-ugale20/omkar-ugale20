@@ -2,44 +2,28 @@
 <h3 align="center">Self-Taught Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;PHP+Developer;Python+Developer;React+Learner;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;PHP+Developer;Python+Developer;React+Learner;Always+Learning+New+Things+🚀"/>
 </p>
 
 ---
 
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-## ⚡ About Me
+## 🚀 About Me
 
 - 🔭 Currently Building **Full Stack Web Applications**
-- 🌱 Learning ** Node.js & Spring Boot**
-- 💻 Skilled in **Java, PHP, Python & MySQL**
+- 🌱 Learning **Node.js & Spring Boot**
+- 💻 Skilled in **Java, PHP, Python, JavaScript & MySQL**
 - 📱 Android Development Enthusiast
 - 🤝 Looking to collaborate on Open Source Projects
 - 📫 Reach me at **omkarugale9370@gmail.com**
-- ⚡ Fun Fact: **Coffee + Coding = Happiness ☕**
-
-</td>
-
-<td width="45%" align="center">
-
-<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</td>
-
-</tr>
-</table>
+- ⚡ Fun Fact **Coffee + Coding = Happiness ☕**
 
 ---
 
-# 🛠 Languages and Tools
+## 🛠 Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,react,nodejs,mysql,c,cpp,git,github,vscode,idea,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,react,nodejs,mysql,c,cpp,git,github,vscode,idea,androidstudio" />
 
 </p>
 
@@ -61,7 +45,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=omkar-ugale20&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=omkar-ugale20&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -71,13 +55,21 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-ugale20&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-ugale20&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
+# 🏆 GitHub Trophies
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omkar-ugale20&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
 
 # ✍ Random Dev Quote
 
@@ -109,18 +101,24 @@
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=omkar-ugale20&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=omkar-ugale20&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
 ---
 
+# 🐍 Contribution Snake
+
 <p align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
+---
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
