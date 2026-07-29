@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omkar Bharat Ugale</h1>
+<h1 align="center">Hi 👋, I'm Omkar Ugale</h1>
 
 <h3 align="center">Self-Taught Full Stack Developer from India 🇮🇳</h3>
 
